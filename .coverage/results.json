@@ -1,0 +1,36 @@
+{
+  "total": 4,
+  "touched": 4,
+  "untouched": 0,
+  "coverage": 100.0,
+  "detailed": {
+    "yum_repository[puias-core]": {
+      "source": {
+        "file": "/tmp/d20140414-17822-1sj79kl/yum-puias/recipes/default.rb",
+        "line": 8
+      },
+      "touched": true
+    },
+    "yum_repository[puias-addons]": {
+      "source": {
+        "file": "/tmp/d20140414-17822-1sj79kl/yum-puias/recipes/default.rb",
+        "line": 8
+      },
+      "touched": true
+    },
+    "yum_repository[puias-unsupported]": {
+      "source": {
+        "file": "/tmp/d20140414-17822-1sj79kl/yum-puias/recipes/default.rb",
+        "line": 8
+      },
+      "touched": true
+    },
+    "yum_repository[puias-computational]": {
+      "source": {
+        "file": "/tmp/d20140414-17822-1sj79kl/yum-puias/recipes/default.rb",
+        "line": 8
+      },
+      "touched": true
+    }
+  }
+}
